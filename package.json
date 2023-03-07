@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LohanBatista/pokedex_v2_backend/issues"
   },
-  "homepage": "https://github.com/LohanBatista/pokedex_v2_backend#readme"
+  "homepage": "https://github.com/LohanBatista/pokedex_v2_backend#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
 }
